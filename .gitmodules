@@ -1,0 +1,6 @@
+[submodule "personal"]
+	path = personal
+	url = git@github.com:luersuve/.dotfiles-personal.git
+[submodule "mbition"]
+	path = mbition
+	url = ssh://git@git.swf.i.mercedes-benz.com:7999/luisesu/dotfiles-mbition.git
